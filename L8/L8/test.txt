@@ -1,0 +1,3 @@
+Hello from test file!
+This file is used for Laboratory Work 8.
+Stream classes in C++.

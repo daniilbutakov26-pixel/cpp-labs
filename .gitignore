@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Сборка
+Debug/
+Release/
+x64/
+x86/
+
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# Временные файлы
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# Пользовательские настройки
+*.user
+*.suo
+
+# Базы данных VS
+*.VC.db
+*.VC.opendb
+
+.vs/
+*/.vs/
+Debug/
+Release/
+x64/
+*.ipch
+*.obj
+*.exe
+*.pdb
+*.ilk
